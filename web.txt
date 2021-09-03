@@ -1,0 +1,6 @@
+// The internet is a series of requests and responses
+one computer on the network will ask/request some information 
+and then the internet/network will work to give the computer the desired response
+
+// When you click on a link it sends a request to the network
+so that it can work on getting the response in question
